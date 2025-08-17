@@ -36,7 +36,7 @@ I also enjoy design and thinking of creative ideas in tech & art.
 ---
 
 ## 📫 Connect with Me
-- GitHub: [github.com/mashalalnasser](https://github.com/mashalalnasser)  
+- GitHub: [github.com/mashalalnasser](https://github.com/mashalnasser)  
 - LinkedIn: [Your LinkedIn link]  
 - Instagram: [Your Instagram link]  
 
